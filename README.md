@@ -33,16 +33,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;" />
   </a>
 
-  <!-- Oracle SQL -->
-  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" style="width: 40px; height: 40px;" />
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px;" />
-  </a>
-
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 40px; height: 40px;" />
@@ -66,6 +56,16 @@
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" style="display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" style="width: 40px; height: 40px;" />
+  </a>
+
+  <!-- Oracle SQL -->
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" style="width: 40px; height: 40px;" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px;" />
   </a>
 </div>
 
