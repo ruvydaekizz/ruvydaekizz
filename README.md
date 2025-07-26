@@ -1,8 +1,8 @@
 <div>
-  <img src="img_ruvydaekiz.PNG" alt="Banner" width="1000" height="270">
+  <img width="1193" height="370" alt="ruvyda_ekiz_img" src="https://github.com/user-attachments/assets/833b9a97-2775-4ac2-b316-e37621f9b317" />
 </div>
 
-<h3>I am a student of MIS (Management Information Systems) from Turkey. I am interested in Data Science and want to use my knowledge and skills in real-world projects. I am open to freelance work, internships, or jobs that will help me improve myself and make a positive contribution.</h3>
+<h3>I am a graduate of MIS (Management Information Systems) from Turkey. I am interested in Data Science and want to use my knowledge and skills in real-world projects. I am open to freelance work, internships, or jobs that will help me improve myself and make a positive contribution.</h3>
 
 
 ### 👩‍💻 About Me:
@@ -45,7 +45,7 @@
 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" style="display: inline-block;">
-    <img src="https://seaborn.pydata.org/_images/seaborn-logo.png" alt="Seaborn" style="width: 40px; height: 40px;" />
+  <img src="https://worldvectorlogo.com/logo/seaborn-1.png" alt="Seaborn" style="width: 40px; height: 40px;" />
   </a>
 
   <!-- Matplotlib -->
