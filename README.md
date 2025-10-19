@@ -72,10 +72,6 @@
 ### 🔗 Connect with Me:
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <!-- Twitter -->
-  <a href="https://x.com/ruvydaekiz" target="_blank" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" style="width: 32px; height: 32px;" />
-  </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ruveyda-ekiz" target="_blank" style="display: inline-block;">
