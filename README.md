@@ -5,7 +5,6 @@
 
 ### 👩‍💻 About Me:
 - 🔭 I’m currently working on Data Science and AI Projects
-- 🌱 I’m currently learning **Machine Learning**
 - 💻 I regularly write articles on **https://medium.com/@ruvydaekiz**
 - 📫 How to reach me: ruvydaekiz@gmail.com
 
