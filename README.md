@@ -1,16 +1,16 @@
-<h1>Hi, I'm Rüveyda Ekiz 👋</h1>
-<h3> Data Analysis | Data Science | Machine Learning </h3>
+<h1 align="center">Hi, I'm Rüveyda Ekiz 👋</h1>
+<h3 align="center">Data Analysis | Data Science | Machine Learning</h3>
 
 ---
 
-###  👩‍💻 About Me:
+### 👩‍💻 About Me
 
 - 🎓 MIS graduate from Sivas Cumhuriyet University.
 - 🔭 **Current Focus:** Data Science, Machine Learning, and AI Projects.
 - 🌱 **Improving my skills in:** Advanced Machine Learning algorithms and Data Visualization.
 - ✍️ **Content Creation:** I regularly share my project processes and insights on my [Medium Blog](https://medium.com/@ruvydaekiz).
 
-<h4> I am passionate about transforming raw data into meaningful insights and building models that solve real-world problems. I am open to collaborative projects, freelance work, and internship opportunities where I can use my skills to add value.  </h4> 
+<h4>I am passionate about transforming raw data into meaningful insights and building models that solve real-world problems. I am open to collaborative projects, freelance work, and internship opportunities where I can use my skills to add value.</h4>
 
 ---
 
@@ -57,8 +57,7 @@
 ---
 
 ### 📫 Connect with Me
-
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/ruveyda-ekiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@ruvydaekiz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:ruvydaekiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -66,13 +65,13 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruvydaekizz&show_icons=true&theme=shadow_blue&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvydaekizz&layout=compact&theme=shadow_blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruvydaekizz&show_icons=true&theme=shadow_blue&hide_border=true" alt="Rüveyda's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvydaekizz&layout=compact&theme=shadow_blue&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruvydaekizz&label=Profil+Ziyaretleri&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ruvydaekizz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
