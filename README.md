@@ -45,8 +45,8 @@
 
 #### 🗄️ Databases
 <p align="left">
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="mssql"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/> </a>
 </p>
 
 #### ⚙️ Version Control & Tools
