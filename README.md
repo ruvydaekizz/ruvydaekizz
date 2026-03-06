@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 MIS graduate from Sivas Cumhuriyet University.
-- 🔭 **Current Focus:** Data Science, Machine Learning, and AI Projects.
+- 🔭 **Current Focus:** Data Analysis, Data Science and Machine Learning.
 - 🌱 **Improving my skills in:** Advanced Machine Learning algorithms and Data Visualization.
 - ✍️ **Content Creation:** I regularly share my project processes and insights on my [Medium Blog](https://medium.com/@ruvydaekiz).
 
